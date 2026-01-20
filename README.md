@@ -1,4 +1,4 @@
-A simple collection of tools created by me
+A simple [AutoHotKey](https://www.autohotkey.com/) collection of tools created by me
   
 # TOOLS LIST and MANDATORIES
   
