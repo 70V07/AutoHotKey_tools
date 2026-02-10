@@ -8,5 +8,6 @@ A simple [AutoHotKey](https://www.autohotkey.com/) collection of tools created b
 
 require **FFmpeg**: `winget install -e --id Gyan.FFmpeg`
 
-⚠️ make sure the `ffmpeg`|`ffplay`|`ffprobe` commands are present in your PATH (Environment Variables)  
-exa: `%LOCALAPPDATA%\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin`
+⚠️ make sure the `ffmpeg` command are present in your PATH (Environment Variables)  
+exa:  
+`%LOCALAPPDATA%\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin`
